@@ -1,3 +1,9 @@
-
+mon_env/
 serviceAccountKey.json
-lib/
+mon_env/
+serviceAccountKey.json
+.vscode/
+**/__pycache__/
+*.pyc
+*.pyo
+*.log
